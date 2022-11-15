@@ -8,7 +8,7 @@ const mongoose = require("mongoose");
 
 mongoose
   .connect(
-    "mongodb+srv://test:CHFCXaqzhGlHzUog@cluster0.hqvwd.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "mongodb+srv://samuel:samuel@cluster0.hwejtfw.mongodb.net/myLoginRegisterDB",
     {
       useNewUrlParser: true,
       useUnifiedTopology: true,
